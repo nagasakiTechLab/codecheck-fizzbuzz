@@ -1,0 +1,384 @@
+[
+  {
+    "input": [
+      "3:Fizz",
+      "5:Buzz",
+      1
+    ],
+    "output": "1"
+  },
+  {
+    "input": [
+      "3:Fizz",
+      "5:Buzz",
+      2
+    ],
+    "output": "2"
+  },
+  {
+    "input": [
+      "3:Fizz",
+      "5:Buzz",
+      3
+    ],
+    "output": "Fizz"
+  },
+  {
+    "input": [
+      "3:Fizz",
+      "5:Buzz",
+      4
+    ],
+    "output": "4"
+  },
+  {
+    "input": [
+      "3:Fizz",
+      "5:Buzz",
+      5
+    ],
+    "output": "Buzz"
+  },
+  {
+    "input": [
+      "3:Fizz",
+      "5:Buzz",
+      6
+    ],
+    "output": "Fizz"
+  },
+  {
+    "input": [
+      "3:Fizz",
+      "5:Buzz",
+      7
+    ],
+    "output": "7"
+  },
+  {
+    "input": [
+      "3:Fizz",
+      "5:Buzz",
+      8
+    ],
+    "output": "8"
+  },
+  {
+    "input": [
+      "3:Fizz",
+      "5:Buzz",
+      9
+    ],
+    "output": "Fizz"
+  },
+  {
+    "input": [
+      "3:Fizz",
+      "5:Buzz",
+      10
+    ],
+    "output": "Buzz"
+  },
+  {
+    "input": [
+      "3:Fizz",
+      "5:Buzz",
+      11
+    ],
+    "output": "11"
+  },
+  {
+    "input": [
+      "3:Fizz",
+      "5:Buzz",
+      12
+    ],
+    "output": "Fizz"
+  },
+  {
+    "input": [
+      "3:Fizz",
+      "5:Buzz",
+      13
+    ],
+    "output": "13"
+  },
+  {
+    "input": [
+      "3:Fizz",
+      "5:Buzz",
+      14
+    ],
+    "output": "14"
+  },
+  {
+    "input": [
+      "3:Fizz",
+      "5:Buzz",
+      15
+    ],
+    "output": "FizzBuzz"
+  },
+  {
+    "input": [
+      "3:Fizz",
+      "5:Buzz",
+      16
+    ],
+    "output": "16"
+  },
+  {
+    "input": [
+      "3:Fizz",
+      "5:Buzz",
+      17
+    ],
+    "output": "17"
+  },
+  {
+    "input": [
+      "3:Fizz",
+      "5:Buzz",
+      18
+    ],
+    "output": "Fizz"
+  },
+  {
+    "input": [
+      "3:Fizz",
+      "5:Buzz",
+      19
+    ],
+    "output": "19"
+  },
+  {
+    "input": [
+      "3:Fizz",
+      "5:Buzz",
+      20
+    ],
+    "output": "Buzz"
+  },
+  {
+    "input": [
+      "3:Fizz",
+      "5:Buzz",
+      21
+    ],
+    "output": "Fizz"
+  },
+  {
+    "input": [
+      "3:Fizz",
+      "5:Buzz",
+      22
+    ],
+    "output": "22"
+  },
+  {
+    "input": [
+      "3:Fizz",
+      "5:Buzz",
+      23
+    ],
+    "output": "23"
+  },
+  {
+    "input": [
+      "3:Fizz",
+      "5:Buzz",
+      24
+    ],
+    "output": "Fizz"
+  },
+  {
+    "input": [
+      "3:Fizz",
+      "5:Buzz",
+      25
+    ],
+    "output": "Buzz"
+  },
+  {
+    "input": [
+      "3:Fizz",
+      "5:Buzz",
+      26
+    ],
+    "output": "26"
+  },
+  {
+    "input": [
+      "3:Uden",
+      "5:Odon",
+      27
+    ],
+    "output": "Uden"
+  },
+  {
+    "input": [
+      "3:Odon",
+      "5:Uden",
+      28
+    ],
+    "output": "28"
+  },
+  {
+    "input": [
+      "3:Tsukemen",
+      "5:Mazesoba",
+      29
+    ],
+    "output": "29"
+  },
+  {
+    "input": [
+      "3:Ikemen",
+      "5:Tsukemen",
+      30
+    ],
+    "output": "IkemenTsukemen"
+  },
+  {
+    "input": [
+      "2:Test",
+      "3:Driven",
+      "5:Development",
+      55
+    ],
+    "output": "Development"
+  },
+  {
+    "input": [
+      "2:Test",
+      "3:Driven",
+      "5:Development",
+      56
+    ],
+    "output": "Test"
+  },
+  {
+    "input": [
+      "2:Test",
+      "3:Driven",
+      "5:Development",
+      57
+    ],
+    "output": "Driven"
+  },
+  {
+    "input": [
+      "2:Test",
+      "3:Driven",
+      "5:Development",
+      58
+    ],
+    "output": "Test"
+  },
+  {
+    "input": [
+      "2:Test",
+      "3:Driven",
+      "5:Development",
+      59
+    ],
+    "output": "59"
+  },
+  {
+    "input": [
+      "2:Test",
+      "3:Driven",
+      "5:Development",
+      60
+    ],
+    "output": "TestDrivenDevelopment"
+  },
+  {
+    "input": [
+      "2:Test",
+      "3:Driven",
+      "5:Development",
+      61
+    ],
+    "output": "61"
+  },
+  {
+    "input": [
+      "2:Test",
+      "3:Driven",
+      "5:Development",
+      62
+    ],
+    "output": "Test"
+  },
+  {
+    "input": [
+      "3:Sweet",
+      "5:Bitter",
+      "7:Beauty",
+      "11:Song",
+      1150
+    ],
+    "output": "Bitter"
+  },
+  {
+    "input": [
+      "3:Sweet",
+      "5:Bitter",
+      "7:Beauty",
+      "11:Song",
+      1151
+    ],
+    "output": "1151"
+  },
+  {
+    "input": [
+      "3:Sweet",
+      "5:Bitter",
+      "7:Beauty",
+      "11:Song",
+      1152
+    ],
+    "output": "Sweet"
+  },
+  {
+    "input": [
+      "3:Sweet",
+      "5:Bitter",
+      "7:Beauty",
+      "11:Song",
+      1153
+    ],
+    "output": "1153"
+  },
+  {
+    "input": [
+      "3:Sweet",
+      "5:Bitter",
+      "7:Beauty",
+      "11:Song",
+      1154
+    ],
+    "output": "1154"
+  },
+  {
+    "input": [
+      "3:Sweet",
+      "5:Bitter",
+      "7:Beauty",
+      "11:Song",
+      1155
+    ],
+    "output": "SweetBitterBeautySong"
+  },
+  {
+    "input": [
+      "3:Sweet",
+      "5:Bitter",
+      "7:Beauty",
+      "11:Song",
+      1156
+    ],
+    "output": "1156"
+  }
+]
